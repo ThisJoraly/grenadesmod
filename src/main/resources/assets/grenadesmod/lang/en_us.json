@@ -1,0 +1,11 @@
+{
+  "item.grenadesmod.koffa": "Koffa",
+  "item.grenadesmod.grenadev1": "Grenade V1",
+  "item.grenadesmod.grenadev2": "Grenade V2",
+  "item.grenadesmod.grenadev3": "Grenade V3",
+  "item.grenadesmod.grenadev4": "Grenade V4",
+  "block.grenadesmod.grenadev1_crate": "Grenade V1 Crate",
+  "block.grenadesmod.grenadev2_crate": "Grenade V2 Crate",
+  "block.grenadesmod.grenadev3_crate": "Grenade V3 Crate",
+  "block.grenadesmod.grenadev4_crate": "Grenade V4 Crate"
+}
